@@ -247,11 +247,19 @@ background-color: indianred;
     color: #5ca7f3;
   }
 
+  #fontesH3 a {
+    color: #5ca7f3;
+  }
+
   #fontesicon {
     color: #5ca7f3;
   }
 
   #inspo {
+    color: #f3935c;
+  }
+
+  #inspoH3 a{
     color: #f3935c;
   }
 
@@ -262,14 +270,32 @@ background-color: indianred;
   #ilustras{
     color: #f3c35c;
   }
+
+  #ilustrasH3 a{
+    color: #f3c35c;
+  }
+
   #cores {
     color: #8CBD8C
   }
+
+  #coresH3 a {
+    color: #8CBD8C
+  }
+
   #fotos {
     color: #99606E
   }
 
+  #fotosH3 a {
+    color: #99606E
+  }
+
   #icones {
+    color: #FF746C
+  }
+
+  #iconesH3 a {
     color: #FF746C
   }
 
